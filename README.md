@@ -14,5 +14,6 @@ This is a web application containing visualizer of various sorting methods, sear
 #SEARCHING VISUALIZER
 ![image](https://github.com/Krish0110/DSA-Project/assets/84063708/9659e61c-a8a8-41c8-b584-e34a8f07c4dc)
 
+
 #MAZE GENERATOR
 ![image](https://github.com/Krish0110/DSA-Project/assets/84063708/48999ee8-04d6-4c4d-a71d-5003cfd24129)
